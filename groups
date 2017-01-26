@@ -1,5 +1,5 @@
-# UUID          Group Name
-False 	Non-Interactive Users
-a10729a7961307ef045146a8c99ffe76fc364014       	puppet/puppet-congress-distgit-core
-4bc1a08f0915bb875fe1bf5073de16bd65143024        	puppet/puppet-congress-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+4bc1a08f0915bb875fe1bf5073de16bd65143024	puppet/puppet-congress-distgit-ptl
+a10729a7961307ef045146a8c99ffe76fc364014	puppet/puppet-congress-distgit-core
+global:Registered-Users                 	Registered Users
