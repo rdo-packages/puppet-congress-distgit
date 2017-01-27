@@ -5,7 +5,7 @@ Name:                   puppet-congress
 Version:                XXX
 Release:                XXX
 Summary:                Puppet module for OpenStack Congress
-License:                Apache-2.0
+License:                ASL 2.0
 
 URL:                    https://launchpad.net/puppet-congress
 
