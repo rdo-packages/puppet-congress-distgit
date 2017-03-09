@@ -50,3 +50,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/congress/
 %changelog
 * Mon Jan 09 2017 Dan Radez <dradez@redhat.com> - XXX-XXX
 - Initial Packaging
+
