@@ -2,7 +2,7 @@
 %{!?upstream_name: %global upstream_name openstack-congress}
 
 Name:                   puppet-congress
-Version:                10.3.0
+Version:                10.3.1
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack Congress
 License:                ASL 2.0
@@ -48,6 +48,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/congress/
 
 
 %changelog
+* Mon May 01 2017 rdo-trunk <javier.pena@redhat.com> 10.3.1-1
+- Update to 10.3.1
+
 * Fri Feb 10 2017 Haikel Guemar <hguemar@fedoraproject.org> 10.3.0-1
 - Update to 10.3.0
 
