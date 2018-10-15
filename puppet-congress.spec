@@ -2,7 +2,7 @@
 %{!?upstream_name: %global upstream_name openstack-congress}
 
 Name:                   puppet-congress
-Version:                13.3.0
+Version:                13.3.1
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack Congress
 License:                ASL 2.0
@@ -48,6 +48,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/congress/
 
 
 %changelog
+* Mon Oct 15 2018 RDO <dev@lists.rdoproject.org> 13.3.1-1
+- Update to 13.3.1
+
 * Mon Aug 20 2018 RDO <dev@lists.rdoproject.org> 13.3.0-1
 - Update to 13.3.0
 
