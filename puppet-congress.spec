@@ -51,3 +51,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/congress/
 * Mon Jan 09 2017 Dan Radez <dradez@redhat.com> - XXX-XXX
 - Initial Packaging
 
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/puppet-congress/commit/?id=110346a30f3eb1bd3909b4a308f6471107d8263b
